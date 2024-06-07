@@ -2,10 +2,11 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width" />
-    <title>My test page</title>
+    <title>my new one</title>
   </head>
 <p>
   The  method adds one or more elements to the end of an array and returns the new length of the
   array.
 </p>
+ <img src="images/firefox-icon.png" alt="My test image" />
 </html>
